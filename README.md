@@ -1,4 +1,4 @@
-# Basic-C-Programs
+# Basic-C-++-Programs
 Some basic programs written in C++
 
 Whoops! The title should say "Basic C++ Programs." Oh, well. I think if you take a look at the code, you'll get the gist of it. 
