@@ -26,4 +26,5 @@ int main() {
         std::cout << "Whoa, mama! You are OLD!!!";
         }
     }
+    return 0;
 }
