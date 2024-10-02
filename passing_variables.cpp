@@ -20,7 +20,7 @@ int main ()
 	cout << "In six years you will change your name to " << name << "." << endl;
 	GetRef(age);
 	cout << "In six years you will be " << age << " years old." << endl;
-	return;
+	return 0;
 }
 
 void GetValue(int height)
